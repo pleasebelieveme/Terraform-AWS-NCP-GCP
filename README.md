@@ -1,4 +1,4 @@
-# Terraform + AWS(EC2) + NCP(Server) Automation
+# Terraform + AWS(EC2) + NCP(Server) + GCP(VM) Automation
 Terrform을 이용해 AWS(EC2), NCP(Server), GCP(VM)을 생성하는 방법을 구현해보았다.
                          
    
