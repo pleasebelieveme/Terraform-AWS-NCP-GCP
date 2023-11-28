@@ -1,5 +1,5 @@
-# Terraform + AWS(EC2) + NCP(Server) + GCP(VM) Automation
-Terrform을 이용해 AWS(EC2), NCP(Server), GCP(VM)을 생성하는 방법을 구현해보았다.
+# Terraform + AWS(EC2) + NCP(Server) + GCP(CE) Automation
+Terrform을 이용해 AWS(EC2), NCP(Server), GCP(CE)을 생성하는 방법을 구현해보았다.
                          
    
 ## 시스템 환경
@@ -60,8 +60,8 @@ terraform init
 ```
 terraform apply -auto-approve
 ```
-└─ 위의 명령어를 치면 AWS(EC2), NCP(Server), GCP(VM)를 생성한다.
+└─ 위의 명령어를 치면 AWS(EC2), NCP(Server), GCP(CE)를 생성한다.
 ```
 terraform destroy -auto-approve
 ```
-└─ 위의 명령어를 치면 AWS(EC2), NCP(Server), GCP(VM)가 삭제된다.
+└─ 위의 명령어를 치면 AWS(EC2), NCP(Server), GCP(CE)가 삭제된다.
