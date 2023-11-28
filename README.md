@@ -12,6 +12,7 @@ Terrform을 이용해 AWS(EC2), NCP(Server), GCP(CE)을 생성하는 방법을 �
 Terraform-aws-ncp  
 ├─ aws.tf
 ├─ ncp.tf
+├─ gcp.tf
 └─ README.md
 ```
 ## 준비물
